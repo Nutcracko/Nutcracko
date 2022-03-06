@@ -2,9 +2,9 @@
 
 <hr/>
 
-## 👨‍💻 Software Engineer with a Mechanical Engineer Background.
+### 👨‍💻 Software Engineer with a Mechanical Engineer Background.
 
-## 👨‍🎓 Graduated from Bilkent University.
+### 👨‍🎓 Graduated from Bilkent University.
 
 - 🔭 Currently working on Backend Development
 - 🌱 I’m currently learning Blockchain development with JavaScript.
