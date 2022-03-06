@@ -4,10 +4,12 @@
 Software Engineer with a Mechanical Engineer Background.
 
 - 🔭 Currently working on Backend Development
+- 🌱 I’m currently learning Blockchain development with JavaScript.
 
 ### 📫 Connect with me:
 
 <hr/>
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/batunal#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/batunal#gh-dark-mode-only)
 [![website](./img/mail.svg)](mailto:unalbatuhan.ub@gmail.com)
