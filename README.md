@@ -1,8 +1,10 @@
 ### Hi there. I am Batuhan - aka Nutcracko 👋
 
 <hr/>
-👨‍💻 Software Engineer with a Mechanical Engineer Background.
-👨‍🎓 Graduated from Bilkent University.
+
+## 👨‍💻 Software Engineer with a Mechanical Engineer Background.
+
+## 👨‍🎓 Graduated from Bilkent University.
 
 - 🔭 Currently working on Backend Development
 - 🌱 I’m currently learning Blockchain development with JavaScript.
